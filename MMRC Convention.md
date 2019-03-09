@@ -1,6 +1,7 @@
 ---
 title: The MMRC Convention
 ---
+[Home](README.md) > The MMRC Convention
 
 # The MMRC Convention
 
@@ -347,6 +348,8 @@ Every extension is identified by a unique ID and will be linked from this sectio
 The ID consists of the reverse domain name and a freely chosen suffix.
 The proper term `mmrc` is reserved and must not be used as the suffix or as part of the domain name.
 
-For example, an organization `example.org` wanting to add a feature `our-feature` would choose the extension ID `org.example.our-feature`. 
+For example, an organization `example.org` wanting to add a feature `our-feature` would choose the extension ID `org.example.our-feature`.
 
 -->
+
+<div style="text-align: right">[<< Back](README.md)</div>
