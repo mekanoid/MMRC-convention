@@ -9,6 +9,8 @@ Version: **0.1.0**
 
 Date: **20 Feb 2019**
 
+_Heavily based on the [Homie Convention](https://homieiot.github.io) by David Gräff and contributors. **Thank you!**_
+
 ## MQTT Restrictions
 
 MMRC communicates through [MQTT](http://mqtt.org) and is hence based on the basic principles of MQTT topic publication and subscription.

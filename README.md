@@ -1,32 +1,41 @@
-````java
- __  __ __  __ ___  ___
-|  \/  |  \/  | _ \/ __|
-| |\/| | |\/| |   / (__
-|_|  |_|_|  |_|_|_\\___| - documentation
-````
-
 Modern Model Railroad Control - Documentation for MMRC in swedish and english.
-View as [web pages](https://mekanoid.github.io/MMRC-documentation/).
 
-## MMRC Convention *(english)*
-_Heavily based on the [Homie Convention](https://homieiot.github.io) by David Gräff and contributors_
+## Documentation
+For the MMRC concept you can find the following documentation. You can also find Readme files in the repositories for each of the MMRC software and the source codes are fully documented.
 
-The MMRC convention strives to be a **communication definition on top of MQTT** to be used by IoT devices on a model railroad **for control and reporting**.
-Its purpose is to help developers quickly get their IoT devices to communicate with other devices in a standardized way.
 
-MQTT is an easy way to communicate between IoT devices, for example Arduino, Raspberry Pi and simular.
-However, MQTT doesn't define the structure and content of these messages and their relation.
+### MMRC Overview
+In progress.
+_Swedish_
 
-This convention therefor defines a **standardized way** of how IoT devices and services announce themselves and their data on the communication channel. It also **defines the structure of MQTT topics and the allowed range/types for payloads**.
 
-[View the document as a web page](MMRC Convention.md)
+### MMRC Convention
+[View the document](MMRC Convention.md).
+_English_
 
-## MMRC Properties *(english)*
-*In progress*
-<!-- A more indepth description of the properties to use for specific model railroad purposes. This document is a **work in progress**. -->
+The convention defines the structure of MQTT topics and the properties to use in MMRC.
 
-## MMRC Overview  *(swedish)*
-*In progress*
 
-## README
-This readme file.
+
+### MMRC Properties
+[View the document](MMRC Properties.md).
+_English_
+
+Description of the different payloads all MMRC properties should use. This document is a **work in progress**.
+
+
+## Software
+Since each MMRC client has its own specific software, there are several respositories the choose from. Right now you can find the following:
+
+
+### MMRC Start
+_Work in progress._
+<!-- [View the repositiory](https://github.com/mekanoid/MMRC-start) -->
+
+Here you can find a basic application that turns off/on the built-in LED on a Arduino board. To use as a start for your own MMRC client project!
+
+
+### MMRC Two turnout
+[View the repositiory](https://github.com/mekanoid/MMRC-twoturnout)
+
+This application controls two separate 2-way turnouts independently. You can control each turnout with a physical button or from a remote client/MQTT app and you can have LEDs indicating the turnout position.
