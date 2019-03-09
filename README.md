@@ -6,7 +6,7 @@
 ````
 
 Modern Model Railroad Control - Documentation for MMRC in swedish and english.
-
+View as [web pages](https://mekanoid.github.io/MMRC-documentation/).
 
 ## MMRC Convention *(english)*
 _Heavily based on the [Homie Convention](https://homieiot.github.io) by David Gräff and contributors_

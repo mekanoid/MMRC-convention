@@ -1,4 +1,9 @@
-# The MMRC Convention Basics
+---
+title: The MMRC Convention
+layout: post
+---
+
+# The MMRC Convention
 
 Version: **0.1.0**
 
