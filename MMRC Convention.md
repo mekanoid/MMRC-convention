@@ -1,6 +1,5 @@
 ---
 title: The MMRC Convention
-layout: post
 ---
 
 # The MMRC Convention
