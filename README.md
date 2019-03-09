@@ -5,9 +5,10 @@ For the MMRC concept you can find the following documentation. You can also find
 
 
 ### MMRC Overview
-In progress.
+[View the document](MMRC Overview.md).
 _Swedish_
 
+This document decribes the concept of MMRC and explains how to use it and how it communicates. It is a **work in progress**.
 
 ### MMRC Convention
 [View the document](MMRC Convention.md).
@@ -25,12 +26,11 @@ Description of the different payloads all MMRC properties should use. This docum
 
 
 ## Software
-Since each MMRC client has its own specific software, there are several respositories the choose from. Right now you can find the following:
+Since each MMRC client has its own specific software, there are several respositories to choose from. Right now you can find the following:
 
 
 ### MMRC Start
-_Work in progress._
-<!-- [View the repositiory](https://github.com/mekanoid/MMRC-start) -->
+[View the repositiory](https://github.com/mekanoid/MMRC-start)
 
 Here you can find a basic application that turns off/on the built-in LED on a Arduino board. To use as a start for your own MMRC client project!
 
