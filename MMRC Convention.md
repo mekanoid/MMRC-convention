@@ -351,5 +351,5 @@ The proper term `mmrc` is reserved and must not be used as the suffix or as part
 For example, an organization `example.org` wanting to add a feature `our-feature` would choose the extension ID `org.example.our-feature`.
 
 -->
-
-<div style="text-align: right">[<< Back](README.md)</div>
+----
+[<< Back](README.md)
