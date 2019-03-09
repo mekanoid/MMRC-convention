@@ -19,6 +19,8 @@ However, MQTT doesn't define the structure and content of these messages and the
 
 This convention therefor defines a **standardized way** of how IoT devices and services announce themselves and their data on the communication channel. It also **defines the structure of MQTT topics and the allowed range/types for payloads**.
 
+[View the document as a web page](MMRC Convention.md)
+
 ## MMRC Properties *(english)*
 *In progress*
 <!-- A more indepth description of the properties to use for specific model railroad purposes. This document is a **work in progress**. -->
