@@ -10,6 +10,7 @@ _Swedish_
 
 This document decribes the concept of MMRC and explains how to use it and how it communicates. It is a **work in progress**.
 
+
 ### MMRC Convention
 [View the document](MMRC Convention.md).
 _English_
@@ -17,12 +18,24 @@ _English_
 The convention defines the structure of MQTT topics and the properties to use in MMRC.
 
 
-
 ### MMRC Properties
 [View the document](MMRC Properties.md).
 _English_
 
 Description of the different payloads all MMRC properties should use. This document is a **work in progress**.
+
+### MMRC Wifi AP
+[View the document](MMRC Wifi.md).
+_Swedish_
+
+A concise description on how to configure a Rapberry Pi to act as an standalone Access Point och MQTT broker.
+
+
+### MMRC MQTT broker
+[View the document](MMRC MQTT broker.md).
+_Swedish_
+
+This document describes how to install the Mosquitto MQTT broker on a Raspberry Pi (or any Linux distribution, actually).
 
 
 ## Software
