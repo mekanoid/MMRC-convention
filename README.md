@@ -1,4 +1,4 @@
-Modern Model Railroad Control - Documentation for MMRC in swedish and english.
+Modern Model Railroad Control - Overview
 
 ## Documentation
 For the MMRC concept you can find the following documentation. You can also find Readme files in the repositories for each of the MMRC software and the source codes are fully documented.
@@ -8,7 +8,7 @@ For the MMRC concept you can find the following documentation. You can also find
 [View the document](MMRC Overview.md).
 _Swedish_
 
-This document decribes the concept of MMRC and explains how to use it and how it communicates. It is a **work in progress**.
+This document describes the concept of MMRC and explains how to use it and how it communicates. It is a **work in progress**.
 
 
 ### MMRC Convention
@@ -28,7 +28,7 @@ Description of the different payloads all MMRC properties should use. This docum
 [View the document](MMRC Wifi.md).
 _Swedish_
 
-A concise description on how to configure a Rapberry Pi to act as an standalone Access Point och MQTT broker.
+A concise description on how to configure a Raspberry Pi to act as an standalone Access Point and MQTT broker.
 
 
 ### MMRC MQTT broker
@@ -39,16 +39,16 @@ This document describes how to install the Mosquitto MQTT broker on a Raspberry 
 
 
 ## Software
-Since each MMRC client has its own specific software, there are several respositories to choose from. Right now you can find the following:
+Since each MMRC client has its own specific software, there are several repositories to choose from. Right now you can find the following:
 
 
 ### MMRC Start
-[View the repositiory](https://github.com/mekanoid/MMRC-start)
+[View the repository](https://github.com/mekanoid/MMRC-start)
 
 Here you can find a basic application that turns off/on the built-in LED on a Arduino board. To use as a start for your own MMRC client project!
 
 
 ### MMRC Two turnout
-[View the repositiory](https://github.com/mekanoid/MMRC-twoturnout)
+[View the repository](https://github.com/mekanoid/MMRC-twoturnout)
 
 This application controls two separate 2-way turnouts independently. You can control each turnout with a physical button or from a remote client/MQTT app and you can have LEDs indicating the turnout position.

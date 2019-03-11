@@ -4,7 +4,7 @@ title: MMRC MQTT broker
 [Home](README.md) > MMRC MQTT broker
 
 # MMRC MQTT broker
-Detta är en kort beskrivning av hur man istallerar en s.k. MQTT broker på en Raspberry Pi. Har du redan en RPi som accesspunkt för MMRC, är det lämpligt att du installerar MQTT-brokern på samma RPi.
+Detta är en kort beskrivning av hur man installerar en s.k. MQTT broker på en Raspberry Pi. Har du redan en RPi som accesspunkt för MMRC, är det lämpligt att du installerar MQTT-brokern på samma RPi.
 
 I denna beskrivning används den mycket vanliga brokern [Mosquitto](https://mosquitto.org/) som är baserad på öppen källkod.
 

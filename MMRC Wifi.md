@@ -16,7 +16,7 @@ Det är ganska många moment inblandade i arbetet, men inget av dem är speciell
 - USB-mus
 - Strömförsörjning 5V/2A med micro USB-kontakt
 
-Det går att installera och konfigurera en Raspberry Pi utan bildskärm, tangenbord och mus, men hur man gör det ingår inte i denna instruktion.
+Det går att installera och konfigurera en Raspberry Pi utan bildskärm, tangentbord och mus, men hur man gör det ingår inte i denna instruktion.
 
 ## Förberedelser
 
@@ -31,7 +31,7 @@ Det går att installera och konfigurera en Raspberry Pi utan bildskärm, tangenb
 ```
 
 ## Installera programvaran
-- Vi börjar med att installera den progranvara som behövs
+- Vi börjar med att installera den programvara som behövs
 ```
      sudo apt-get install dnsmasq hostapd
 ```
@@ -40,7 +40,7 @@ Det går att installera och konfigurera en Raspberry Pi utan bildskärm, tangenb
     sudo systemctl stop dnsmasq
     sudo systemctl stop hostapd
 ```
-- Om du inte startade om efter uppdateringen av Rasbian, är det dags att göra det nu:
+- Om du inte startade om efter uppdateringen av Raspbian, är det dags att göra det nu:
 ```
     sudo reboot
 ```
@@ -132,7 +132,7 @@ Raden hw_mode bestämmer vilken nätverksstandard du använder:
 ```
 
 ## Ta bort grafiska gränssnittet
-Om du startade RPi med grafisk gränsnsitt, så kanske du hädanefter inte vill att det ska gå igång automatiskt. Du kan ändra den inställningen i RPi eget konfigureringsverktyg:
+Om du startade RPi med grafisk gränssnitt, så kanske du hädanefter inte vill att det ska gå igång automatiskt. Du kan ändra den inställningen i RPi eget konfigureringsverktyg:
 ```
     sudo raspi-config
 ```
