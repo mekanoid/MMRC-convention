@@ -52,3 +52,10 @@ Here you can find a basic application that turns off/on the built-in LED on a Ar
 [View the repository](https://github.com/mekanoid/MMRC-twoturnout)
 
 This application controls two separate 2-way turnouts independently. You can control each turnout with a physical button or from a remote client/MQTT app and you can have LEDs indicating the turnout position.
+
+
+### MMRC Two signal
+[View the repository](https://github.com/mekanoid/MMRC-twosignal)
+
+This application controls two separate signals from two different turnouts independently. It's made for Swedish light signals and can control both 2, 3, 4 or 5 light signals.
+At the moment this is **a work in progress** and the application just controls one 2-5 light signal.
