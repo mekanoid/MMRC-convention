@@ -24,6 +24,14 @@ _English_
 
 Description of the different payloads all MMRC properties should use. This document is a **work in progress**.
 
+
+### MMRC Settings
+[View the document](MMRC Settings.md).
+_Swedish_
+
+Here you find a description (in swedish) of the more general settings you can do for a MMRC client.
+
+
 ### MMRC Wifi AP
 [View the document](MMRC Wifi.md).
 _Swedish_
