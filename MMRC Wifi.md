@@ -1,9 +1,9 @@
 ---
-title: MMRC Wifi and MQTT server
+title: MMRC Wifi
 ---
-[Home](README.md) > MMRC Wifi and MQTT server
+[Home](README.md) > MMRC Wifi
 
-# MMRC Wifi and MQTT server
+# MMRC Wifi
 Detta är en kortfattad beskrivning av hur man får en Raspberry Pi (RPi) att agera som accesspunkt för ett fristående trådlöst nätverk. Kan vara mycket användbart för man kunna använda sitt eget MMRC-nät på en modulträff.
 
 Det är ganska många moment inblandade i arbetet, men inget av dem är speciellt svårt. Det viktiga är att göra allt i rätt ordning och att vara noga med de texter man skriver in. Att råka skriva stor bokstav istället för liten kan göra att ingenting fungerar. Fråga mig, jag har provat. :-)

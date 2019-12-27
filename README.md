@@ -17,19 +17,19 @@ _English_
 
 The convention defines the structure of MQTT topics and the properties to use in MMRC.
 
-
+<!--
 ### MMRC Properties
 [View the document](MMRC Properties.md).
 _English_
 
 Description of the different payloads all MMRC properties should use. This document is a **work in progress**.
 
-
 ### MMRC Settings
 [View the document](MMRC Settings.md).
 _Swedish_
 
 Here you find a description (in swedish) of the more general settings you can do for a MMRC client.
+-->
 
 
 ### MMRC Wifi AP
@@ -46,18 +46,24 @@ _Swedish_
 This document describes how to install the Mosquitto MQTT broker on a Raspberry Pi (or any Linux distribution, actually).
 
 
+## Hardware
+When using MMRC at your model railroad, you may need some hardware to complete the installation.
+
+### MMRC 3D print
+[View the repository](https://github.com/mekanoid/MMRC-3dprint)
+In this repository I put some 3D printing files that can be useful when you want to use MMRC at your model railroad.
+
+### MMRC PCB
+[View the repository](https://github.com/mekanoid/MMRC-pcb)
+Here you can find some Printed Curcuit Board layouts that can be used when building different types of MMRC clients.
+
+
 ## Software
 Since each MMRC client has its own specific software, there are several repositories to choose from. Right now you can find the following:
 
 
-### MMRC Start
-[View the repository](https://github.com/mekanoid/MMRC-start)
-
-Here you can find a basic application that turns off/on the built-in LED on a Arduino board. To use as a start for your own MMRC client project!
-
-
-### MMRC Two turnout
-[View the repository](https://github.com/mekanoid/MMRC-twoturnout)
+### MMRC 2turnout
+[View the repository](https://github.com/mekanoid/MMRC-2turnout)
 
 This application controls two separate 2-way turnouts independently. You can control each turnout with a physical button or from a remote client/MQTT app and you can have LEDs indicating the turnout position.
 
